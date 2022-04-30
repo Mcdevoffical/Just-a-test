@@ -1,0 +1,43 @@
+import time
+import random
+cmd=input()
+id=(random)
+if cmd=="run":
+    
+
+    print("\nWELCOME TO PY BOT THE BOT MADE IN PYTHON\n \nBY DYNAMIC WOLF530\n")
+
+if cmd=="setid"or"giveid"or"getid":
+  print(random.randrange(1,100))
+  
+else:
+     print("Computing response")
+time.sleep(5.9)
+
+if cmd=="hello":
+    time.sleep(0.5)
+    print("hello fellow human")
+cmd=input()
+if cmd=="!help":
+    print("\nmy commands are\n \nhelp\n \nhello\n \nnew\n")
+else:
+    print("\rERROR PLEASE TRY AGAIN\r")
+    time.sleep(3)
+    print("Please type !help to find out my commands")
+    
+cmd=input()
+    
+if cmd=="whats my id":
+    print(id)
+    
+time.sleep(200)
+
+#made by mcdevteam 
+#subscribe to 『https://youtube.com/channel/UCvjAv5-StRnfKFuotwHgknQ』
+ 
+    
+
+
+
+
+    
